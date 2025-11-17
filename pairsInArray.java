@@ -6,7 +6,7 @@ public class pairsInArray {
                 System.out.println(numbers[i] + " " + numbers[j]);
                 totalpair++;
             }
-            // System.out.println();
+            System.out.println();
         }
         System.out.println("total pairs" + totalpair);
     }
